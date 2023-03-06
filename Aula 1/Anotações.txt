@@ -1,0 +1,18 @@
+Linguagem de Programação
+
+O que vamos aprender?
+
+C e Python
+ - Operadores Aritméticas +-*/
+ - Operadores Lógicos.
+ - Operadores Relacionais.
+ - Entrada/Saída.
+ - Estruturas de Decisão.
+ - Estruturas de Repetição.
+ - Vetores/Matriz
+ - Estrutura de Dados Homogeneas
+ - Estrutura de Dados Heterogeneas.
+ - Modularisação - Funções.
+ - Ponteiros ou Endereçamento.
+ - Arquivos. 
+
