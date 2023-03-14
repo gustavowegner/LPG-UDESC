@@ -1,0 +1,96 @@
+Tipos de Dados:
+
+C: 
+
+Variavel - Espaço de memória reservado.
+
+Int: Inteiros (Números).
+Char: Caracter (Letras).
+Float: Números (Diferente de Inteiros).
+
+Python:
+
+Não há tipos de variaveis assim como JS, porém é uma linguagem mais lenta
+tudo há um custo, ou seja, uma linguagem mais lenta e que gera mais custo.
+
+Eles são gerados automaticamente.
+
+===========================================================================
+
+C & Python: As duas linguagens são imperativas, ou seja, tenho que mandar
+		elas fazerem o que desejo.
+
+C: 	int x;
+	scanf("%i", &x); --> Ler um inteiro.
+	/* Comentario */
+
+Python:	input("Mensagem")
+		x = int(input("Mensagem")) --> Alocar dados na Variavel.
+		y = float(input("_")
+		print(x),
+
+===========================================================================
+
+Operadores:
+
+C:	+ --> Adição.
+	- --> Subtração.
+	* --> Multiplicação.
+	/ --> Divisão.
+	% --> Resto.
+	() --> Prioridade.	
+
+Python:	+ --> Adição.
+		+ --> Concatenação.
+		- --> Subtração.
+		* --> Multiplicação.
+		* --> Concatenação N vezes. = 'a'*4 = 'aaaa'
+		// --> Divisão.
+		% --> Resto.
+		() --> Prioridade.
+		** --> Potência.
+
+===========================================================================
+
+Relacionais:
+
+< --> Menor.
+<= --> Menor Igual.
+> --> Maior.
+>= --> Maior Igual.
+== --> Igual.
+!= --> Diferente.
+7 in [3,4,7,9]
+
+===========================================================================
+
+Operadores Lógicos.
+
+Boolean:
+
+C:	0 --> False.
+	Diferente de 0 --> True.
+
+	&& --> E
+	|| --> OU
+	! --> NÂO
+
+
+Python: 0 --> False.
+	  1 --> True.
+
+	  AND --> E
+	  OR --> OU
+	  NOT --> NÂO
+
+Bit:	
+
+C:	& --> E
+	| --> OU
+	~ --> NÃO
+
+Python: & --> E
+	  | --> OU
+	  ~ --> NÃO
+
+===========================================================================
